@@ -2,11 +2,11 @@ actors:
   tttttahiti:
     image_url: /images/actors/tttttahiti.jpg
     name: たひち
-    url: http://sns.example.com/alice
+    url: https://twitter.com/tttttahiti
   lilllllicos:
     image_url: /images/actors/lilllllicos.jpg
     name: COS
-    url: http://sns.example.com/bob
+    url: https://twitter.com/lilllllicos
 author: tttttahiti & lilllllicos
 description: Example description
 description_long: Example long description
