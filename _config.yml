@@ -1,13 +1,13 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
+  tttttahiti:
+    image_url: /images/actors/tttttahiti.jpg
+    name: たひち
     url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
+  lilllllicos:
+    image_url: /images/actors/lilllllicos.jpg
+    name: COS
     url: http://sns.example.com/bob
-author: alice
+author: tttttahiti & lilllllicos
 description: Example description
 description_long: Example long description
 email: info@example.com
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: Podcast WIP
+url: https://tttttahiti.github.io/yattecast/
