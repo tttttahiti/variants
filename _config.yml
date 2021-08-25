@@ -9,7 +9,7 @@ actors:
     url: https://twitter.com/lilllllicos
 author: tttttahiti & lilllllicos
 description: variants はかなりゆるい感じで配信しているラジオです。
-description_long: variants はかなりゆるい感じで配信していますラジオです。
+description_long: variants はかなりゆるい感じで配信しているラジオです。
 email: tttttahiti+variants@gmail.com
 exclude:
   - docker
