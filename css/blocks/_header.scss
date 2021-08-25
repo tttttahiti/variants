@@ -13,13 +13,9 @@
     background-position: center;
     font-size: 0;
   
-    &::after{
-      content: '';
+    a {
       display: block;
       padding-top: 100%;
-    }
-
-    a {
       &,
       &:active,
       &:focus,
