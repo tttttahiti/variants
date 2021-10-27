@@ -8,8 +8,8 @@ actors:
     name: COS
     url: https://twitter.com/lilllllicos
 author: tttttahiti &amp; lilllllicos
-description: variants はかなりゆるい感じで配信しているラジオです。
-description_long: variants はかなりゆるい感じで配信しているラジオです。
+description: variants はたひちとコサインによるかなりゆるい感じで配信しているラジオです。ディズニープラス等の海外ポップカルチャーの話が多いですが、他にも2人の興味であれやこれや喋っています。
+description_long: variants はたひちとコサインによるかなりゆるい感じで配信しているラジオです。ディズニープラス等の海外ポップカルチャーの話が多いですが、他にも2人の興味であれやこれや喋っています。
 email: tttttahiti+variants@gmail.com
 exclude:
   - docker
