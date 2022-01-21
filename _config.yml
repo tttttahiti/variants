@@ -8,9 +8,9 @@ actors:
     name: COS
     url: https://twitter.com/cos_pan_da
 author: tttttahiti &amp; cos_pan_da
-description: variants はたひちとコサインによるかなりゆるい感じで配信しているラジオです。ディズニープラス等の海外ポップカルチャーの話が多いですが、他にも2人の興味であれやこれや喋っています。
-description_long: variants はたひちとコサインによるかなりゆるい感じで配信しているラジオです。ディズニープラス等の海外ポップカルチャーの話が多いですが、他にも2人の興味であれやこれや喋っています。
-email: tttttahiti+variants@gmail.com
+description: variants は Marvel や STARWARS などの海外ポップカルチャーが好きな2人によるゆるゆるおしゃべりラジオです。ネタバレから雑談まで、楽しくマイペースに配信中。おたよりも気軽にどうぞ! https://docs.google.com/forms/d/e/1FAIpQLSeKp8Sly-oH08RdYUhlweMADdBfV-DfzCMwEOfAHgB6cDMz2g/viewform
+description_long: variants は Marvel や STARWARS などの海外ポップカルチャーが好きな2人によるゆるゆるおしゃべりラジオです。ネタバレから雑談まで、楽しくマイペースに配信中。おたよりも気軽にどうぞ! https://docs.google.com/forms/d/e/1FAIpQLSeKp8Sly-oH08RdYUhlweMADdBfV-DfzCMwEOfAHgB6cDMz2g/viewform
+email: variants.radio@gmail.com
 exclude:
   - docker
   - docker-compose.yml
