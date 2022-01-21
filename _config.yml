@@ -5,11 +5,11 @@ actors:
     url: https://twitter.com/tttttahiti
   cos_pan_da:
     image_url: /images/actors/cos_pan_da.jpg
-    name: COS
+    name: コサイン
     url: https://twitter.com/cos_pan_da
 author: tttttahiti &amp; cos_pan_da
-description: variants は Marvel や STARWARS などの海外ポップカルチャーが好きな2人によるゆるゆるおしゃべりラジオです。ネタバレから雑談まで、楽しくマイペースに配信中。おたよりも気軽にどうぞ! https://docs.google.com/forms/d/e/1FAIpQLSeKp8Sly-oH08RdYUhlweMADdBfV-DfzCMwEOfAHgB6cDMz2g/viewform
-description_long: variants は Marvel や STARWARS などの海外ポップカルチャーが好きな2人によるゆるゆるおしゃべりラジオです。ネタバレから雑談まで、楽しくマイペースに配信中。おたよりも気軽にどうぞ! https://docs.google.com/forms/d/e/1FAIpQLSeKp8Sly-oH08RdYUhlweMADdBfV-DfzCMwEOfAHgB6cDMz2g/viewform
+description: variants は Marvel や STARWARS などの海外ポップカルチャーが好きな2人によるゆるゆるおしゃべりラジオです。ネタバレから雑談まで、楽しくマイペースに配信中。おたよりも気軽にどうぞ! <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKp8Sly-oH08RdYUhlweMADdBfV-DfzCMwEOfAHgB6cDMz2g/viewform">https://docs.google.com/forms/d/e/1FAIpQLSeKp8Sly-oH08RdYUhlweMADdBfV-DfzCMwEOfAHgB6cDMz2g/viewform</a>
+description_long: variants は Marvel や STARWARS などの海外ポップカルチャーが好きな2人によるゆるゆるおしゃべりラジオです。ネタバレから雑談まで、楽しくマイペースに配信中。おたよりも気軽にどうぞ!
 email: variants.radio@gmail.com
 exclude:
   - docker

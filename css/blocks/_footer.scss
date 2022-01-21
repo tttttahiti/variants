@@ -16,6 +16,13 @@
       &-heading {
         font-size: 1.4rem;
       }
+
+      &-description {
+        margin-bottom: 16px;
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
     }
   }
 
